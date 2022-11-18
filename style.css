@@ -21,3 +21,27 @@ button
     background-color: cadetblue;
     color: blanchedalmond;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td {
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color: coral;
+    background-color: black;
+}
+.table tr{
+    color: darkolivegreen;
+    background-color: beige;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif   ;
+}
+caption{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif   ;
+}
+.table td:hover{
+    color: aqua;
+    background-color: floralwhite;
+}
+ 
